@@ -1,0 +1,10 @@
+// general imports
+@import "./reset.scss";
+@import "./variables.scss";
+@import "./typography.scss";
+@import "./global.scss";
+@import "./mixins.scss";
+
+// component styles
+@import "./components/layout";
+@import "./components/button";
